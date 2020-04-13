@@ -1,1 +1,3 @@
 # EmailCreationApp
+
+Java Practice
